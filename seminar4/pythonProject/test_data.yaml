@@ -1,0 +1,6 @@
+api_url_login: https://test-stand.gb.ru/gateway/login
+api_url_posts: https://test-stand.gb.ru/api/posts
+base_web_address: https://test-stand.gb.ru
+browser: chrome
+user_name: user_polar_wolf_590033
+passwd: 2e593e01ee
