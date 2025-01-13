@@ -1,0 +1,7 @@
+#for task_1
+wsdl: https://speller.yandex.net/services/spellservice?WSDL
+#for task_2
+url_login: https://test-stand.gb.ru/gateway/login
+url_posts: https://test-stand.gb.ru/api/posts
+user_name: user_polar_wolf_590033
+passwd: 2e593e01ee
