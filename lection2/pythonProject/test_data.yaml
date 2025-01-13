@@ -1,0 +1,3 @@
+base_web_address: https://test-stand.gb.ru
+driver_path: chromedriver-win64/chromedriver.exe
+sleep_time: 1
